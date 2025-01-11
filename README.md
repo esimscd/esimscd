@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @esimscd
 - 👀 I’m interested in reading and cooking!
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning HTML and CSS
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...I can touch my elbow with my tongue
+- ⚡ Fun fact: ...
 
 <!---
 esimscd/esimscd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
