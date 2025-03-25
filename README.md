@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @esimscd
 - 👀 I’m interested in reading and cooking!
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JavaScript, React and Tailwind!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Halloween is my favourite holiday!
 
 <!---
 esimscd/esimscd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
