@@ -6,6 +6,6 @@
 
 # <ins>Frontend Projects</ins>
 
-(Frontend Mentor QR code project[https://github.com/esimscd/QRcode.git])
+[Frontend Mentor QR code project](https://github.com/esimscd/QRcode.git)
 
 
