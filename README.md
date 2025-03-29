@@ -14,6 +14,7 @@
 
 # <ins>Fullstack Projects</ins>
 **Web app using JS and connected to an API**
-* [Recipe finder web app using an API]()
 
+* [Recipe finder web app using an API](https://codepen.io/esim343/pen/abgMBGe)
+This was a group project completed with two other group members as part of an Introduction to JavaScript course, the project was built in CodePen
 
