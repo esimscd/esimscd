@@ -10,7 +10,7 @@
 
 **Frontend Mentor Projects using HTML and CSS only**
 * [Frontend Mentor QR code project](https://github.com/esimscd/QRcode.git)
-* [Frontend Mentor Blog card]()
+* [Frontend Mentor Blog card](https://github.com/esimscd/BlogCard.git)
 
 # <ins>Fullstack Projects</ins>
 **Web app using JS and connected to an API**
