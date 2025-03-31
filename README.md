@@ -4,6 +4,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Halloween is my favourite holiday!
 
+# <ins>Frontend Projects</ins>
 **Frontend Mentor Projects using HTML and CSS only**
 * [Frontend Mentor QR code project](https://github.com/esimscd/QRcode.git)
 * [Frontend Mentor Blog card](https://github.com/esimscd/BlogCard.git)
