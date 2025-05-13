@@ -2,7 +2,6 @@
 - 👀 I’m interested in reading and cooking!
 - 🌱 I’m currently learning more about React!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Halloween is my favourite holiday!
 
 # <ins>Projects</ins>
 **HTML, CSS and JS used to make a fun and colourful site using a mood selector**
