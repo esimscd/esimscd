@@ -4,8 +4,8 @@
 - 😄 Pronouns: She/Her
 
 # <ins>Projects</ins>
-**HTML, CSS and JS used to make a fun and colourful site using a mood selector** <br>
-[Mood and Music Selector Project](https://github.com/esimscd/mood-project.git) <br>
+**Simple projects using HTML, CSS and JS**
+* [Mood and Music Selector Project](https://github.com/esimscd/mood-project.git) <br>
 This is a personal project to practice using some fun moving gradients and update the page dynamically by letting a user select the mood
 
 **Second-Hand Clothing API using Node.js, Express.js and MySQL** <br>
