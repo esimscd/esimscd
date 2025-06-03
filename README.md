@@ -20,12 +20,13 @@ This is a personal project to practice using some fun moving gradients and updat
 Completed as part of a Full Stack development course, this simple RESTful API was built for a second-hand clothing marketplace. It allows users to retrieve all clothing listings, add new items, update existing entries, and delete items by ID. <br>
 You can clone the repository and follow instructions on how to run [here](https://github.com/esimscd/Assignments/tree/main/Assignment-4)
 
-### Frontend Mentor Projects using HTML and CSS only**
+## Frontend Mentor Projects
+**Uses: HTML, CSS**
 * [Frontend Mentor QR code project](https://github.com/esimscd/QRcode.git)
 * [Frontend Mentor Blog card](https://github.com/esimscd/BlogCard.git)
 
-### Web app using JS and connected to an API**
+## Web app using JS and connected to an API
+**Uses: vanilla JavaScript, Fetch API**
 * [Recipe finder web app using an API](https://codepen.io/esim343/pen/abgMBGe) <br>
-Uses: vanilla JavaScript, Fetch API
 A small group project built in CodePen using vanilla JS and external APIs to search for recipes by keyword.
 
