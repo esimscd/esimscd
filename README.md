@@ -17,7 +17,7 @@ This is a personal project to practice using some fun moving gradients and updat
 
 ## Second-Hand Clothing API using Node.js, Express.js and MySQL 
 **Uses: Node.js, Express.js** <br>
-Completed as part of a Full Stack development course, this simple RESTful API was built for a second-hand clothing marketplace. It allows users to retrieve all clothing listings, add new items, update existing entries, and delete items by ID. <br>
+Completed as part of a full-stack development course, this simple RESTful API was built for a second-hand clothing marketplace. It allows users to retrieve all clothing listings, add new items, update existing entries, and delete items by ID. <br>
 You can clone the repository and follow instructions on how to run [here](https://github.com/esimscd/Assignments/tree/main/Assignment-4)
 
 ## Frontend Mentor Projects
