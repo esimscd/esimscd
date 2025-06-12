@@ -8,7 +8,7 @@
 ## Moodie: Personalised film recommendation app
 **Uses: React, TMDb API, CSS** <br>
 A collaborative group project built as part of a full-stack development course. This app uses quiz-style inputs to recommend movies based on mood, runtime, genre, and more. Built with React and styled from scratch. <br>
-[Repo private as part of a group project - added soon]
+[Group project repo](https://github.com/esimscd/Moodie-Full-Stack-final-project.git)
 
 ## Simple Frontend project - Mood and music selector project <br>
 **Uses: HTML, CSS, JS** <br>
