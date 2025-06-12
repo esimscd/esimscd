@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Lizzie #
 - 👀 I’m interested in reading and cooking!
 - 🌱 I’m currently learning more about React!
+- 📚 I'm currently reading: The Design of Everyday Things
 - 😄 Pronouns: She/Her
 
 # <ins>Projects</ins>
