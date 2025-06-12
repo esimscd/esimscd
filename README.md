@@ -7,7 +7,7 @@
 # <ins>Projects</ins>
 
 ## Moodie: Personalised film recommendation app
-<img width="500px" alt="Screenshot 2025-06-12 at 16 02 08" src="https://github.com/user-attachments/assets/e64634e5-59c2-4024-9d71-91c5a4d5643f" />
+<img width="500px" alt="Screenshot 2025-06-12 at 16 02 08" src="https://github.com/user-attachments/assets/e64634e5-59c2-4024-9d71-91c5a4d5643f" /><br>
 **Uses: React, TMDb API, CSS** <br>
 A collaborative group project built as part of a full-stack development course. This app uses quiz-style inputs to recommend movies based on mood, runtime, genre, and more. Built with React and styled from scratch. <br>
 [Group project repo](https://github.com/esimscd/Moodie-Full-Stack-final-project.git)
